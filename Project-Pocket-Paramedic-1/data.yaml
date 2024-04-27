@@ -1,0 +1,12 @@
+names:
+- Cut
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: project-pocket-paramedic
+  url: https://universe.roboflow.com/jose-castillo/project-pocket-paramedic/dataset/1
+  version: 1
+  workspace: jose-castillo
+test: ../test/images
+train: Project-Pocket-Paramedic-1/train/images
+val: Project-Pocket-Paramedic-1/valid/images
