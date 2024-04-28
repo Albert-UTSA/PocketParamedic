@@ -1,0 +1,12 @@
+names:
+- Barbell
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: project-perfect-form
+  url: https://universe.roboflow.com/jose-castillo/project-perfect-form/dataset/2
+  version: 2
+  workspace: jose-castillo
+test: ../test/images
+train: Project-Perfect-form-2/train/images
+val: Project-Perfect-form-2/valid/images
