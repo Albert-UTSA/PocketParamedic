@@ -3,7 +3,7 @@
 Pocket Paramedic is a groundbreaking new piece of technology that detects a cut or scrape and uses a robotic arm to place a bandaid on the wound.
 
 # Tools
-- Pocket Paramedic sized mat
+- Pocket Paramedic placemat
 - Robotic Arm (insert specific version here)
 
 ## Usage
