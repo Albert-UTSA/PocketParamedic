@@ -13,5 +13,5 @@ Pocket Paramedic is a groundbreaking new piece of technology that detects a cut 
 - Ensure that the wound is placed in the "wound box" on the placemat. Next, run `FINAL_TEST3.py` in `JUPYTER NOTEBOOK FOLDERS/FINAL_TEST1/yolo5` which runs the yolo model to detect cuts. If a cut is detected, the movement function will be triggered in AI_ARM_FINALv3.py.
 
 ## Demo Video
-Click to be redirected to youtube.
+Click to be redirected to youtube. \n
 [![Demo Vidoe](https://img.youtube.com/vi/kCZSegzI_90/0.jpg)](https://www.youtube.com/watch?v=kCZSegzI_90)
