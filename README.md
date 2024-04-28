@@ -14,4 +14,6 @@ Pocket Paramedic is a groundbreaking new piece of technology that detects a cut 
 
 ## Demo Video
 Click to be redirected to youtube. <br />
+<br />
+
 [![Demo Vidoe](https://img.youtube.com/vi/kCZSegzI_90/0.jpg)](https://www.youtube.com/watch?v=kCZSegzI_90)
