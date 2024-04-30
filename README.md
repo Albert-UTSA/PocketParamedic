@@ -4,7 +4,7 @@ Pocket Paramedic is a groundbreaking new piece of technology that detects a cut 
 
 # Tools
 - Pocket Paramedic placemat
-- Robotic Arm (insert specific version here)
+- Robotic Arm (Hiwonder MaxArm Open Source Robot Arm Powered by ESP32)
 
 ## Usage
 - Download all files.
